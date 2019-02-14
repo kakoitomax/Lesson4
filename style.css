@@ -1,0 +1,108 @@
+body {
+    background: url(fon.jpg) center no-repeat fixed;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.logo {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    right: 750px;
+}
+
+.firstimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+
+}
+
+.secondimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    left: 200px;
+}
+
+img.threeimg {
+    position: absolute;
+    width: 200px;
+    height: 400px;
+    left: 400px;
+}
+.fourimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    top: 500px;
+}
+.fiveimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    top: 500px;
+    left: 200px;
+}
+.siximg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    top: 500px;
+    left: 400px;
+}
+.sevenimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 0;
+    top: 0;
+}
+.eightimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 200px;
+    top: 0;
+
+}
+
+.nineimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 400px;
+    top: 0;
+
+}
+.tenimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 0;
+    top: 500px;
+    
+}
+.elevenimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 200px;
+    top: 500px;
+
+}
+.tvelveimg {
+    position: absolute;
+    width:200px;
+    height: 400px;
+    right: 400px;
+    top: 500px;
+}
+.mainimg {
+    position: absolute;
+    width:500px;
+    height: 600px;
+    right: 700px;
+    top: 250px;
+}
